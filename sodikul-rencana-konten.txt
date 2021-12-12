@@ -1,6 +1,7 @@
 RENCANA KONTEN
 - Sholawat
- * Majlis Rosullah
+ * Majlis Rosulullah
+ * Bhening
 - Pemograman
  * PHP
  * Javascript
