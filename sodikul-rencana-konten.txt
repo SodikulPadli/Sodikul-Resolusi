@@ -5,3 +5,5 @@ RENCANA KONTEN
  * PHP
  * Javascript
 - Tips
+ * Hp
+ * Game
