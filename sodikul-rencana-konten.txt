@@ -1,5 +1,7 @@
 RENCANA KONTEN
 - Sholawat
+ * Majlis Rosullah
 - Pemograman
-*PHP Javascript
+ * PHP
+ * Javascript
 - Tips
