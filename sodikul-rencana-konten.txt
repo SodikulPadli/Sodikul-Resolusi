@@ -6,4 +6,5 @@ RENCANA KONTEN
  * PHP
  * Javascript
 - Tips
-- Travel
+ * Hp
+ * Game
